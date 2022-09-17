@@ -1,12 +1,13 @@
- Machine learning is really fascinating.
+Machine learning is really fascinating.
 Let's say we have a very smart and hardworking person that spends majority of their time learning new stuff.
 Now if another person wants to learn from them, they will have to allocate a good amount of their time to studies, which can be frustrating for majority of us humans so we can't convince everyone to follow their paths.
 
 On the other hand if a genius person was able to transfer information to a computer (ie: built a machine learning program, created a new algorithm...) we can transfer the results to ALL computers at a constant time, no need to deal with a learning curve, motivation or anything alike.
 
-    I have watched multiple documentaries about Tesla , so I'll talk about Self driving here:
-Tesla virtually trains their AI, like they creates a simulation with thousands of Tesla cars(with slightly different AI algo.) along with other cars and Humans ,they let it run and self Learn for a while (virtually on the cloud), and the best part is they can pick the ~best algorithm and make it standard in all cars at a constant time without having to train each car individually. 
+
+    I have watched multiple documentaries about Tesla, so I'll talk about Self driving here:
+Tesla virtually train their AI, like they create a simulation with thousands of Tesla cars(with slightly different AI algo.) along with other cars and Humans ,they let it run and self Learn for a while (virtually on the cloud), and the best part is they can pick the ~best algorithm and make it standard in all cars at a constant time without having to train each car individually. 
 
 Challenge: While AI is not perfect statistically speaking Tesla's self driving algo is safer than avg human driver. Here is an example of an edge case situation.
   #Situation: you counter a cyclist WITH a helmet and an other one WITHOUT a helmet , which one you will hit ?
-  #Decision making: one can argue that it might be better to hit the one with the helmet (because if otherwise there is a high chance the other one will day), if we applied that in all cars on a large scale it would be safer not wear the helmet (proved by simulation), so this is one of the ethical challenges that they need to deal with 
+  #Decision making: one can argue that it might be better to hit the one with the helmet (because if otherwise there is a high chance the other one will day), if we applied that in all cars on a large scale it would be safer not wear the helmet (proved by simulation), so this is one of the ethical challenges that they need to deal with.
